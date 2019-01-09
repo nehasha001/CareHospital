@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Maven: org.postgresql:pgjdbc-aggregate:42.2.4">
+    <CLASSES />
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/postgresql/pgjdbc-aggregate/42.2.4/pgjdbc-aggregate-42.2.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/postgresql/pgjdbc-aggregate/42.2.4/pgjdbc-aggregate-42.2.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
